@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "World History"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "83791b32-edd8-6bf0-4201-b2698c928373"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Capitalism in the Age of Revolution",
+  "course_description": "The decades leading up to the Atlantic revolutions of the late eighteenth century were formative moments in the rise of capitalism. The novel instruments of credit, debt, and investment fashioned during this period proved to be enduring sources of financial innovation, but they also generated a great deal of political conflict, particularly during the revolutionary era itself. \u00a0This seminar examines the debates surrounding large-scale financial and trading corporations and considers the eighteenth century as a period of recurring financial crisis in which corporate power came into sustained and direct contact with emerging republican norms. The seminar ends with a look at the relationship between slavery and the rise of \u201cmodern\u201d or \u201cindustrial\u201d capitalism in the nineteenth century, as well as some of the critiques of capitalism that emerged out of that experience.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.382",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
